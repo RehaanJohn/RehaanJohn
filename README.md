@@ -3,7 +3,7 @@ Hey there! 👋
 I'm a **First-Year Computer Science & Engineering (CSE) Student** at **LICET**, passionate about coding, technology, and building cool stuff. Welcome to my GitHub—where I explore, learn, and share my projects!
 
 <p align="center">
-  <img src="![World](https://giphy.com/gifs/earth-planet-americas-l5JbspfwZ0yjHjlJ0K)" alt="Rotating Tesseract" width="200"/>
+  <img src="https://media.giphy.com/media/l5JbspfwZ0yjHjlJ0K/giphy.gif" alt="Rotating Earth" width="300"/>
 </p>
 
 ## About Me
