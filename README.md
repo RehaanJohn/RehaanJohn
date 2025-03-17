@@ -3,7 +3,7 @@ Hey there! 👋
 I'm a **First-Year Computer Science & Engineering (CSE) Student** at **LICET**, passionate about coding, technology, and building cool stuff. Welcome to my GitHub—where I explore, learn, and share my projects!
 
 <p align="center">
-  <img src="./Loop Space Gif.gif" alt="My Looping Space GIF" width="300"/>
+  <img src="./Loop Space GIF.gif" alt="My Looping Space GIF" width="300"/>
 </p>
 
 
