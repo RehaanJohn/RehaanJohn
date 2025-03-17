@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**RehaanJohn/RehaanJohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **First-Year Computer Science & Engineering (CSE) Student** at **LICET**, passionate about coding, technology, and building cool stuff. Welcome to my GitHub—where I explore, learn, and share my projects! Let's Collobarate! 
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Hypercube.gif" alt="Rotating Tesseract" width="200"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🎓 **Studying**: B.E. in Computer Science & Engineering  
+- 💻 **Proficient in**: Python, C++, HTML, CSS  
+- 🌱 **Currently Learning**: C, JavaScript, Linux (Xubuntu)  
+- 🗣️ **Skills**: Articulate Communicator | Tech Enthusiast  
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rehaan-rafael-john-b40075249/) — Let's network and talk tech!
+
+## What I'm Up To
+- Experimenting with code, diving into new languages, and exploring the world of open-source.  
+- Expect to see projects ranging from simple scripts to (hopefully) mind-bending creations!
+
+Thanks for stopping by—feel free to explore my repos or drop me a message! 🚀
